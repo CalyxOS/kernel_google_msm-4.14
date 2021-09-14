@@ -32,6 +32,8 @@ msm-4.14/private/msm-google-modules/touch/fts/sunfish
 IN_KERNEL_MODULES=1
 STOP_SHIP_TRACEPRINTK=1
 
+if [ -z "${FAST_BUILD}" ]; then
 UNSTRIPPED_MODULES="
 wlan.ko
 "
+fi
