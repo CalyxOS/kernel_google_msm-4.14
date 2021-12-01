@@ -10,6 +10,6 @@ System.map
 .config
 "
 EXT_MODULES="
-private/msm-google-modules/wlan/qcacld-3.0
-private/msm-google-modules/touch/fts/floral
+msm-4.14/private/msm-google-modules/wlan/qcacld-3.0
+msm-4.14/private/msm-google-modules/touch/fts/floral
 "
