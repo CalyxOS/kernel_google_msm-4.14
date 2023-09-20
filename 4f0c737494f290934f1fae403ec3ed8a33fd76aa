@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1819d542_061ee940",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-09-20T13:05:21Z",
+      "side": 1,
+      "message": "Shipping for a while, https://github.com/LineageOS/android_kernel_google_msm-4.14/commit/4f0c737494f290934f1fae403ec3ed8a33fd76aa",
+      "revId": "4f0c737494f290934f1fae403ec3ed8a33fd76aa",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
