@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64805ee0_16d5f357",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-09-20T14:16:07Z",
+      "side": 1,
+      "message": "Quick smoke test is fine.",
+      "revId": "4b1f3533e27a7a7050e568e9dc46779507c6a7f7",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
