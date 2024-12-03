@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3089b14_4084c1be",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-12-03T20:29:18Z",
+      "side": 1,
+      "message": "The `\\u200b` test behaves the same before and after here.",
+      "revId": "0c2e79d9b9a9a59beef1eeadb5c5af4362fff04e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
